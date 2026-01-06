@@ -80,67 +80,40 @@
 </p>
 ---
 
-## 🆕 🚀 Live Developer Dashboard
+---
+
+## 🧠 Languages & Usage
 
 <p align="center">
-  <img src="https://github-live-stats.vercel.app/api?username=cricketstan&theme=dark" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cricketstan&layout=compact&theme=radical&hide_border=true" />
 </p>
-
-> ⏱ Realtime commits • stars • repo activity  
-> Looks like a **live product dashboard**
 
 ---
 
-## 🆕 🧭 Tech Radar (Very Rare)
+## 📊 More GitHub Insights
 
 <p align="center">
-  <img src="https://tech-radar-svg.vercel.app/api?skills=js,python,node,linux,ffmpeg,automation,github&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cricketstan&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cricketstan&theme=radical" />
 </p>
-
-> Shows **strength per tech** (OTT / Automation vibe)
 
 ---
 
-## 🆕 📡 CricTV Project Status
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://project-status-svg.vercel.app/api?name=CricTV&status=LIVE&color=red" />
+  <img src="https://github-profile-trophy.vercel.app/?username=cricketstan&theme=radical&no-frame=true&column=6" />
 </p>
-
-> Makes your GitHub look like a **startup product page**
 
 ---
 
-## 🆕 🌍 Developer Presence (Time + Status)
+## 📈 Profile Metrics
 
 <p align="center">
-  <img src="https://dev-presence-svg.vercel.app/api?user=cricketstan&tz=Asia/Kolkata" />
+  <img src="https://komarev.com/ghpvc/?username=cricketstan&label=Profile%20Views&color=red&style=flat" />
+  <img src="https://img.shields.io/github/followers/cricketstan?label=Followers&style=flat&color=red" />
+  <img src="https://img.shields.io/github/stars/cricketstan?label=Total%20Stars&style=flat&color=red" />
 </p>
-
-> Shows **local time + online presence**
-
----
-
-## 🆕 🖥️ System Monitor (Termux / Hacker Style)
-
-<p align="center">
-  <img src="https://terminal-monitor-svg.vercel.app/api?title=CricTV%20System&theme=dark" />
-</p>
-
-> Looks like a **live Termux screen**  
-> Extremely rare feature 🔥
-
----
-
-## 🆕 📅 Clean Contribution Heatmap
-
-<p align="center">
-  <img src="https://contrib-calendar-svg.vercel.app/api?username=cricketstan&theme=dark" />
-</p>
-
-> Cleaner than GitHub’s default graph
-
----
 <!-- FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071b4f,100:00013a&height=120&section=footer" />
