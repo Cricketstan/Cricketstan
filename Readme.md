@@ -78,7 +78,69 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cricketstan&style=flat-square&color=red" />
 </p>
+---
 
+## 🆕 🚀 Live Developer Dashboard
+
+<p align="center">
+  <img src="https://github-live-stats.vercel.app/api?username=cricketstan&theme=dark" />
+</p>
+
+> ⏱ Realtime commits • stars • repo activity  
+> Looks like a **live product dashboard**
+
+---
+
+## 🆕 🧭 Tech Radar (Very Rare)
+
+<p align="center">
+  <img src="https://tech-radar-svg.vercel.app/api?skills=js,python,node,linux,ffmpeg,automation,github&theme=dark" />
+</p>
+
+> Shows **strength per tech** (OTT / Automation vibe)
+
+---
+
+## 🆕 📡 CricTV Project Status
+
+<p align="center">
+  <img src="https://project-status-svg.vercel.app/api?name=CricTV&status=LIVE&color=red" />
+</p>
+
+> Makes your GitHub look like a **startup product page**
+
+---
+
+## 🆕 🌍 Developer Presence (Time + Status)
+
+<p align="center">
+  <img src="https://dev-presence-svg.vercel.app/api?user=cricketstan&tz=Asia/Kolkata" />
+</p>
+
+> Shows **local time + online presence**
+
+---
+
+## 🆕 🖥️ System Monitor (Termux / Hacker Style)
+
+<p align="center">
+  <img src="https://terminal-monitor-svg.vercel.app/api?title=CricTV%20System&theme=dark" />
+</p>
+
+> Looks like a **live Termux screen**  
+> Extremely rare feature 🔥
+
+---
+
+## 🆕 📅 Clean Contribution Heatmap
+
+<p align="center">
+  <img src="https://contrib-calendar-svg.vercel.app/api?username=cricketstan&theme=dark" />
+</p>
+
+> Cleaner than GitHub’s default graph
+
+---
 <!-- FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071b4f,100:00013a&height=120&section=footer" />
