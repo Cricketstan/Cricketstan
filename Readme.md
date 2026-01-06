@@ -97,14 +97,10 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cricketstan&theme=radical" />
 </p>
 
----
-
-## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cricketstan&theme=radical&no-frame=true&column=6" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=cricketstan&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" />
 </p>
-
 ---
 
 ## 📈 Profile Metrics
